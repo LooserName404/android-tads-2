@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World Noite</string>
+    <string name="plusSign">+</string>
+    <string name="minusSign">-</string>
+    <string name="timesSign">x</string>
+    <string name="divisionSign">/</string>
+</resources>
